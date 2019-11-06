@@ -1,0 +1,14 @@
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.deps.json
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.json
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.dev.json
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.dll
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csprojAssemblyReference.cache
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.CoreCompileInputs.cache
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cache
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cs
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfoInputs.cache
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfo.cs
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorTargetAssemblyInfo.cache
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.pdb
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.dll
+E:\本地项目\本地项目\docker\APIGateway\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.pdb

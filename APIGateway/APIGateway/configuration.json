@@ -1,0 +1,24 @@
+{
+  "ReRoutes": [
+    // API01:CAS.ClientService
+    {
+      "UseServiceDiscovery": true, // use Consul service discovery
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "dockerDemoService",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      "UpstreamPathTemplate": "/api/dockerDemoService/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "ReRoutesCaseSensitive": false // non case sensitive
+    }
+  ],
+  "GlobalConfiguration": {
+    //"BaseUrl": "https://api.mybusiness.com"
+    "ServiceDiscoveryProvider": {
+      "Host": "192.168.1.76", // Consul Service IP
+      "Port": 8500 // Consul Service Port
+    }
+  }
+}

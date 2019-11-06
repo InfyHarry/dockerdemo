@@ -1,0 +1,15 @@
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\bin\Debug\netcoreapp2.1\DockerDemo.deps.json
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\bin\Debug\netcoreapp2.1\DockerDemo.runtimeconfig.json
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\bin\Debug\netcoreapp2.1\DockerDemo.runtimeconfig.dev.json
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\bin\Debug\netcoreapp2.1\DockerDemo.dll
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\bin\Debug\netcoreapp2.1\DockerDemo.pdb
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.csprojAssemblyReference.cache
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.csproj.CoreCompileInputs.cache
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.RazorAssemblyInfo.cache
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.RazorAssemblyInfo.cs
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.AssemblyInfoInputs.cache
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.AssemblyInfo.cs
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.RazorTargetAssemblyInfo.cache
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.dll
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\obj\Debug\netcoreapp2.1\DockerDemo.pdb
+E:\本地项目\本地项目\docker\DockerDemo\DockerDemo\bin\Debug\netcoreapp2.1\Dockerfile
